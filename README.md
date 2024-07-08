@@ -14,4 +14,5 @@ result_name_template = '%s-%s-%s-%s.jpg'  # %s表示坐标点 依次为 x0, y0, 
 基于https://gitee.com/wb200327/image_tagger代码修改
 
 可视化：
-![image](https://github.com/11-10/Image-annotation-based-on-PyQt/assets/100272245/fb7dd7b8-4c81-4e04-a411-fd61160499c5)
+![image](https://github.com/11-10/Image-annotation-based-on-PyQt/assets/100272245/aa6f0984-38a0-4bdf-b87b-67dcfc7b4575)
+
